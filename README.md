@@ -1,4 +1,4 @@
-# sugoku react nativ project
+# Mangane react redux project
 
 Creating Sudoku game with React Native \
 Technologi use :
